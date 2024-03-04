@@ -6,7 +6,7 @@ void greet()
 	std::cout << "Welcom\n\n";
 	std::cout << "Main feature\n\n";
 }
-void solution();
+void Solution();
 int main() 
 {
 	greet();

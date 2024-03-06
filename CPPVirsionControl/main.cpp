@@ -7,6 +7,7 @@ void greet()
 	std::cout << "Main feature\n\n";
 }
 void Solution();
+void test2();
 int main() 
 {
 	// branch feature
